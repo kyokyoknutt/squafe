@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.kebokyo.squafe.SquaFE"
+    ],
+    "modmenu": [
+      "net.kebokyo.squafe.SquaFEModMenuAPI"
     ]
   },
   "mixins": [
