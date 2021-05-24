@@ -1,0 +1,46 @@
+{
+    "key.squafe.toggleMove": "Toggle SquaFE Movement",
+    "key.squafe.toggleMove.on": "SquaFE enabled.",
+    "key.squafe.toggleMove.off": "SquaFE disabled.",
+
+    "config.squafe.title": "SquaFE Mod Settings",
+
+    "config.squafe.enabled": "Enable SquaFE",
+    "config.squafe.enabled.key": "This can be toggled by pressing %k (change in key bindings menu).",
+
+    "config.squafe.mode": "Movement Mode",
+    "config.squafe.mode.cpma": "CPMA: Challenge Pro Mode (Q3A + Q1)",
+    "config.squafe.mode.q3a": "Quake 3: Arena",
+    "config.squafe.mode.q1": "Quake",
+    "config.squafe.mode.source": "GoldSrc / Source",
+    "config.squafe.mode.ff": "Fortress Forever",
+
+    "config.squafe.features": "Feature Toggle",
+    "config.squafe.features.note": "Changing the movement mode will affect the settings in this section.",
+    "config.squafe.dashing": "Dashing",
+    "config.squafe.trimping": "Water Trimping",
+    "config.squafe.rampJumping": "Ramp Jumping",
+    "config.squafe.wallClipping": "Wall Clipping",
+    "config.squafe.knockback": "Knockback Slick",
+    "config.squafe.overbounce": "Overbounce",
+    
+    "config.squafe.nerfAutoHop": "Nerf Auto Hop",
+    "config.squafe.fallDist": "Increase Fall Distance Threshold",
+    "config.squafe.jumpIndicators": "Enable Jump Indicators",
+
+    "config.squafe.bhopCap": "Bhopping Speed Cap",
+    "config.squafe.bhopCap.none": "No Cap",
+    "config.squafe.bhopCap.soft": "Soft Cap",
+    "config.squafe.bhopCap.hard": "Hard Cap",
+    "config.squafe.bhopCap.strength": "Cap Strength",
+
+    "config.squafe.nerd": "VARIABLES FOR NERDS",
+    "config.squafe.gndAccel": "Ground Acceleration",
+    "config.squafe.airAccel.q1": "Air Acceleration (Q1)",
+    "config.squafe.airAccel.q3a": "Air Acceleration (Q3A)",
+    "config.squafe.airAccel.steer": "Air Acceleration (CPMA Steering)",
+    "config.squafe.knockback.time": "Knockback Slick Time",
+    "config.squafe.wallClipping.time": "Wall Clipping Time",
+    "config.squafe.rampJumping.scale": "Ramp Jumping Scale",
+    "config.squafe.fallDist.val": "Increased Fall Distance Amount"
+}

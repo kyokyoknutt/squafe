@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "squafe",
+  "version": "${version}",
+
+  "name": "SquaFE",
+  "description": "Squake, Fabric Edition: adds Quake CPMA movement to Minecraft!",
+  "authors": [
+    "kebokyo"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/squafe-bhopping-in-minecraft",
+    "sources": ""
+  },
+
+  "license": "GNU v3",
+  "icon": "assets/squafe/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.kebokyo.squafe.SquaFE"
+    ]
+  },
+  "mixins": [
+    "squafe.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
